@@ -14,6 +14,10 @@ http://3.110.157.77:8000
 
 ⚠️ This is a basic demo chatbot and may not answer every question correctly.
 
+⚠️ Note: This project is hosted on an AWS EC2 free-tier instance.
+The server may occasionally be offline because the instance is stopped to conserve free-tier usage hours.
+If the link does not load, the server is likely turned off.
+
 ---
 
 ##  Features
