@@ -18,6 +18,7 @@ http://3.110.157.77:8000
 
 ##  Features
 
+
 * Conversational chatbot interface
 * TF-IDF similarity based response matching
 * Custom dataset question-answer system
@@ -179,3 +180,11 @@ Built as a project to explore:
 * Conversation history
 * Docker deployment
 * Authentication and logging
+
+## 📸 Preview
+
+   
+   
+
+<img width="1919" height="870" alt="demo screenshot" src="https://github.com/user-attachments/assets/dfffc049-3d1c-46df-b99c-01c6a9337fcd" />
+
