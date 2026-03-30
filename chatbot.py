@@ -27,7 +27,7 @@ def get_response(message):
 
     message = message.lower()
 
-    # -------- MEMORY FEATURE --------
+    #  MEMORY FEATURE 
 
     # detect name
     name_match = re.search(r"(my name is|i am|i'm|im)\s+([a-zA-Z]+)", message)
@@ -42,7 +42,7 @@ def get_response(message):
         else:
             return "I don't know your name yet."
 
-    # -------- SMART DATASET MATCHING --------
+    # SMART DATASET MATCHING 
 
     msg_vector = vectorizer.transform([message])
     similarity = cosine_similarity(msg_vector, X)
