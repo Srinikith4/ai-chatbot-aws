@@ -1,4 +1,4 @@
-# 🤖 Nikith AI Chatbot
+# 🤖 Nikith Chatbot-AWS-EC2-Deployed
 
 A simple AI chatbot built using **Python, Machine Learning, and FastAPI**, capable of responding to user queries using **TF-IDF similarity and cosine similarity** on a custom dataset.
 
